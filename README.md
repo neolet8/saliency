@@ -16,3 +16,4 @@ were calculated. Brightness is defined by average pixel level for each band in t
 Contrast is defined by root mean square for each band in the image. After this process the salient
 pixels were transformed into white (255) and the rest to black (0), which is basic global
 thresholding.
+The alpha(α) parameter should be adjusted for better results.
